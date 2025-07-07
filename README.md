@@ -33,7 +33,6 @@ Ouvrez un nouveau terminal (`cmd` ou PowerShell) et tapez :
 
 ```bash
 p help
-pour afficher la liste des commandes disponibles.
 ```
 
 ### Commandes principales 
