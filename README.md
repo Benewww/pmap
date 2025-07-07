@@ -11,7 +11,6 @@
 - **Nettoyage système** : purge du cache DNS, dossier TEMP, corbeille Windows
 - **Lancement de Chrome en mode navigation privée** (Windows uniquement)
 - **Affichage des informations système détaillées** (CPU, RAM, disque, uptime, IP locale)
-- **Affichage des connexions réseau actives** (`netstat`)
 - **Extraction et déchiffrement des tokens Discord** (Windows uniquement, à utiliser de manière responsable)
 - **Affichage de la version Python utilisée**
 
