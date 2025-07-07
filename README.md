@@ -52,7 +52,6 @@ pour afficher la liste des commandes disponibles.
 | `clean`     | Nettoie cache DNS, dossier TEMP et corbeille (Windows)  |
 | `stealth`   | Lance Google Chrome en mode navigation privée (Windows) |
 | `sysinfo`   | Affiche les informations système basiques               |
-| `netstat`   | Affiche les connexions réseau actives                   |
 | `discord`   | Récupère et déchiffre les tokens Discord (Windows)      |
 | `pyversion` | Affiche la version de Python installée                  |
 
