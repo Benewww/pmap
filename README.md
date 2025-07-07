@@ -1,6 +1,6 @@
-# p-map
+# pmap
 
-**p-map** est un outil en ligne de commande Windows puissant, polyvalent et léger développé en Python, permettant d’exécuter plusieurs commandes système utiles, allant de la récupération d’informations système à la gestion du nettoyage et la récupération de tokens Discord (uniquement à des fins légitimes et éthiques).
+**pmap** est un outil en ligne de commande Windows puissant, polyvalent et léger développé en Python, permettant d’exécuter plusieurs commandes système utiles, allant de la récupération d’informations système à la gestion du nettoyage et la récupération de tokens Discord (uniquement à des fins légitimes et éthiques).
 
 ---
 
