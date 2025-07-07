@@ -26,12 +26,6 @@ Le projet est fourni avec un script d’installation batch (`install.bat`) qui a
 3. Création d’un script batch wrapper (`p.bat`) pointant vers l’exécutable
 4. Ajout du dossier dans la variable d’environnement `PATH` de l’utilisateur pour un accès facile depuis n’importe quel terminal
 
-### Étapes pour installer manuellement :
-
-- Compiler le script Python en `p.exe` (ex: via [PyInstaller](https://www.pyinstaller.org/))
-- Placer `p.exe` dans un dossier `dist` à la racine du projet
-- Lancer le script `install.bat` (ou équivalent) pour installer l’outil
-
 ---
 
 ## Utilisation
